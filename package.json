@@ -1,0 +1,8 @@
+{
+  "name": "vue-intro-course",
+  "version": "1.0",
+  "description": "Vuejs intro course project.",
+  "engines": {
+    "node": ">=8"
+  }
+}
